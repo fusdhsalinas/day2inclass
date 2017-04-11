@@ -43,3 +43,15 @@
     color: black;
   }
 }
+
+@media screen and (max-width: 768px){
+  .header {
+    background-color: gold;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .header {
+    background-color: #053E39;
+  }
+}
