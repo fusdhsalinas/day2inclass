@@ -1,0 +1,36 @@
+.header{
+  background-color: blue;
+  height: 220px;
+  border: 2px solid #000;
+}
+
+.navigation{
+  background-color: green;
+  height: 95px;
+  border: 2px solid #000;
+}
+
+.content{
+  background-color: #7E2D28;
+  height: 280px;
+  border: 2px solid #000;
+}
+
+.aside{
+  background-color: #68e4fd;
+  height: 280px;
+  border: 2px solid #000;
+}
+
+.promo{
+  background-color: orange;
+  height: 230px;
+  border: 2px solid #000;
+}
+
+.footer{
+  background-color: black;
+  height: 95px;
+  border: 2px solid #000;
+  color: white;
+}
